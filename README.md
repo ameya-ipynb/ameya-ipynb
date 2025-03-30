@@ -1,6 +1,5 @@
-- Qualifications : Finished Middle School.
-- Currently Studying : 10th grade.
-- Age : 15 
+- Currently Studying : 11th grade.
+- Age : 16
 - Learning Data Science
 - Email For Colabs : ameya.ipynb@gmail.com
 
